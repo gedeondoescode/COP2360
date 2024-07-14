@@ -1,0 +1,15 @@
+C:\Users\night\code\COP2360\module3-structs\obj\Debug\net8.0\module3-structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\night\code\COP2360\module3-structs\obj\Debug\net8.0\module3-structs.AssemblyInfoInputs.cache
+C:\Users\night\code\COP2360\module3-structs\obj\Debug\net8.0\module3-structs.AssemblyInfo.cs
+C:\Users\night\code\COP2360\module3-structs\obj\Debug\net8.0\module3-structs.csproj.CoreCompileInputs.cache
+C:\Users\night\code\COP2360\module3-structs\obj\Debug\net8.0\module3-structs.sourcelink.json
+C:\Users\night\code\COP2360\module3-structs\bin\Debug\net8.0\module3-structs.exe
+C:\Users\night\code\COP2360\module3-structs\bin\Debug\net8.0\module3-structs.deps.json
+C:\Users\night\code\COP2360\module3-structs\bin\Debug\net8.0\module3-structs.runtimeconfig.json
+C:\Users\night\code\COP2360\module3-structs\bin\Debug\net8.0\module3-structs.dll
+C:\Users\night\code\COP2360\module3-structs\bin\Debug\net8.0\module3-structs.pdb
+C:\Users\night\code\COP2360\module3-structs\obj\Debug\net8.0\module3-structs.dll
+C:\Users\night\code\COP2360\module3-structs\obj\Debug\net8.0\refint\module3-structs.dll
+C:\Users\night\code\COP2360\module3-structs\obj\Debug\net8.0\module3-structs.pdb
+C:\Users\night\code\COP2360\module3-structs\obj\Debug\net8.0\module3-structs.genruntimeconfig.cache
+C:\Users\night\code\COP2360\module3-structs\obj\Debug\net8.0\ref\module3-structs.dll
