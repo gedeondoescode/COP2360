@@ -1,4 +1,4 @@
-﻿// This is a usage exmaple of defining structs similar to what was provided in   
+﻿// This is a usage exmaple of defining structs similar to what was provided in Structs.txt seen here: https://github.com/PBSC-Hammond/COP2360/blob/main/Module_3/Structs.txt   
 
 using System;
 
