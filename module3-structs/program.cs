@@ -4,7 +4,7 @@ using System;
 
 class Program
 {
-    void Cubes()
+    void WriteCubes()
     {
         int WriteCubes(int value) => value * value * value;
         Console.WriteLine(3);
