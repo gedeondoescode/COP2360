@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kru9cWNmAG8oBS3O7Iy/dA3PuBaK04PYWkQsIDXOJJ8wiJdXX/MChYVLu0r+ndrkm24a+61FyQfU1xbPf+aogA==",
+  "success": true,
+  "projectFilePath": "/home/night/Projects/COP2360/module4-division/module4-division.csproj",
+  "expectedPackageFiles": [
+    "/home/night/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

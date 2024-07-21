@@ -1,0 +1,15 @@
+/home/night/Projects/COP2360/module4-division/obj/Debug/net8.0/module4-division.GeneratedMSBuildEditorConfig.editorconfig
+/home/night/Projects/COP2360/module4-division/obj/Debug/net8.0/module4-division.AssemblyInfoInputs.cache
+/home/night/Projects/COP2360/module4-division/obj/Debug/net8.0/module4-division.AssemblyInfo.cs
+/home/night/Projects/COP2360/module4-division/obj/Debug/net8.0/module4-division.csproj.CoreCompileInputs.cache
+/home/night/Projects/COP2360/module4-division/obj/Debug/net8.0/module4-division.sourcelink.json
+/home/night/Projects/COP2360/module4-division/bin/Debug/net8.0/module4-division
+/home/night/Projects/COP2360/module4-division/bin/Debug/net8.0/module4-division.deps.json
+/home/night/Projects/COP2360/module4-division/bin/Debug/net8.0/module4-division.runtimeconfig.json
+/home/night/Projects/COP2360/module4-division/bin/Debug/net8.0/module4-division.dll
+/home/night/Projects/COP2360/module4-division/bin/Debug/net8.0/module4-division.pdb
+/home/night/Projects/COP2360/module4-division/obj/Debug/net8.0/module4-division.dll
+/home/night/Projects/COP2360/module4-division/obj/Debug/net8.0/refint/module4-division.dll
+/home/night/Projects/COP2360/module4-division/obj/Debug/net8.0/module4-division.pdb
+/home/night/Projects/COP2360/module4-division/obj/Debug/net8.0/module4-division.genruntimeconfig.cache
+/home/night/Projects/COP2360/module4-division/obj/Debug/net8.0/ref/module4-division.dll
